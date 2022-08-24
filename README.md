@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Soumodeep Das
+- 👀 I’m interested in data science and busniess analytics
+- 🌱 I’m currently a student of business analytics in Praxis Business School,Kolkata
+- 📫 How to reach me: soumodeep.das@praxis.ac.in
